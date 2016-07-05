@@ -1,0 +1,28 @@
+name: carconnection
+favicon: null
+layout_spectrum: 0.605249046580866
+typography_spectrum: 0.6927439919672906
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.15628191153518856
+  lightness: 0.9283242463134229
+  saturation: 0.5481795684900135
+  rhythmicContrast: 0.7964997806120664
+purpose: []
